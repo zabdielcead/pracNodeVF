@@ -1,0 +1,27 @@
+{
+    "name": "pracnodevf",
+    "version": "0.0.1",
+    "description": "Simple tabla de multiplicar",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "base3": "node app --base=3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zabdielcead/pracNodeVF.git"
+    },
+    "author": "CEAD",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zabdielcead/pracNodeVF/issues"
+    },
+    "homepage": "https://github.com/zabdielcead/pracNodeVF#readme",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^16.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
